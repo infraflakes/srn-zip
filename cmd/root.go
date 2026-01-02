@@ -6,7 +6,7 @@ import (
 )
 
 var RootCmd = &cobra.Command{
-	Use:   "archive",
+	Use:   "szip",
 	Short: "Archive and extract files with 7z",
 }
 
